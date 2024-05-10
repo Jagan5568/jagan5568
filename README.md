@@ -1,6 +1,4 @@
-Blind assistance systems play a crucial role in facilitating the mobility and independence of visually impaired individuals. This paper presents a novel approach to enhancing blind assistance systems through real-time object detection and distance estimation. Leveraging Convolutional Neural Networks (CNNs) and advanced computer vision techniques, our system provides live object recognition, spatial audio alerts, and distance estimation to assist blind users in navigating their surroundings safely and effectively. The proposed system utilizes a combination of hardware components and software algorithms to achieve accurate object detection and distance estimation in real time. Experimental results demonstrate the effectiveness and practicality of the proposed system in assisting visually impaired individuals in various environments.
-Key Words: Computer Vision, Object Detection, MobileNet, Single Shot Multi-Box Detector, OpenCv, Voice feedback, Object description, Distance Estimation.  
-
-Introduction:
-          Blindness poses significant challenges to mobility and independence for millions of people worldwide. Traditional white canes and guide dogs have long been relied upon as primary aids for blind individuals navigating their surroundings . However, advancements in technology have led to the development of electronic blind assistance systems that offer additional functionalities to enhance user mobility and safety . In recent years, there has been a growing interest in leveraging computer vision and machine learning techniques to augment blind assistance systems with real-time object detection and distance estimation capabilities . These advancements hold the potential to revolutionize the way visually impaired individuals interact with their environment, providing them with greater autonomy and confidence in their daily activities .
-
+# Object-Detection-For-A-blind-Person
+BEST PROJECT MADE BY USING OPENCV.
+I HOPE YOU WILL LIKE IT.
+ONE FILE IS MISSING HERE IF YOU NEED THAT CONTACT AT priyanshchhabra0316@gmail.com
